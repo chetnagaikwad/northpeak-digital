@@ -13,7 +13,8 @@ A responsive, high-performance one-page landing page built for NorthPeak Digital
   ## 📸 Screenshots
 
 ### 👤 User Side
-<img src="digitalheros.png" width="250"/>
+-ipad veiw
+<img src="digitalherosipad.png" width="250"/>
 
 
 ##  Features
