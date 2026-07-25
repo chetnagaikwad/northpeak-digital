@@ -10,6 +10,11 @@ A responsive, high-performance one-page landing page built for NorthPeak Digital
 - Vanilla HTML5 (Semantic Structure)
 - Custom CSS (Flexbox/Grid, Dark Mode Glassmorphism)
 -  JavaScript (Form Validation & Mobile Navigation)
+  ## 📸 Screenshots
+
+### 👤 User Side
+<img src="digitalheros" width="250"/>
+
 
 ##  Features
 - **Hero Section:** Headline & CTA button.
